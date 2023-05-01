@@ -6,8 +6,6 @@ b = 0
 c = 0
 
 def distance(s, t, ai, aj, b, c)
-    if len(s) == 1 and len(t) == 1
-    return abs (s[0]) 
     
 method = sys.argv[1]
 example.txt = sys.argv[2]
